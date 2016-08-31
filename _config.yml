@@ -19,4 +19,7 @@ navigation:
   - name: Awesome Day
     id: 65492ce3-2c77-4ae6-ad65-62cc0cea1704
     type: content
+  - name: Polar Bear | Species | WWF
+    id: c10b6e3a-9475-42d5-b56b-f950ed4fd008
+    type: content
 title: ''
