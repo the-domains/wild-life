@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-29T14:01:47.945Z'
+datePublished: '2016-08-29T14:02:49.774Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T14:00:35.076Z'
+dateModified: '2016-08-29T14:02:48.909Z'
 title: And my name is 3
 publisher: {}
 description: >-
@@ -12,9 +12,11 @@ description: >-
   charm of existence in this spot, which was created for the bliss of souls like
   mine. I am so happy, my dear friend, so absorbed in the exquisite sense of
   mere tranquil existence, that I neglect my talents. 
-starred: false
 sourcePath: _posts/2016-08-29-and-my-name-is-3.md
-_type: Blurb
+hasPage: true
+starred: false
+url: and-my-name-is-3/index.html
+_type: Article
 
 ---
 # And my name is 3
