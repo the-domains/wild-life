@@ -23,16 +23,14 @@ description: >-
   survival: loss of sea ice.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.worldwildlife.org/species/polar-bear'
 title: Polar Bear | Species | WWF
-datePublished: '2016-08-29T13:22:27.572Z'
-dateModified: '2016-08-29T13:19:44.815Z'
+datePublished: '2016-08-29T14:06:27.940Z'
+dateModified: '2016-08-29T14:06:27.407Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-29-polar-bear-or-species-or-wwf.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: polar-bear-or-species-or-wwf/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
