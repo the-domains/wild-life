@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-29T14:11:10.179Z'
+datePublished: '2016-08-29T15:40:01.937Z'
 sourcePath: _posts/2016-08-29-and-my-name-is-3.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T14:11:09.700Z'
+dateModified: '2016-08-29T15:40:01.330Z'
 title: And my name is 3
 publisher: {}
 description: >-
