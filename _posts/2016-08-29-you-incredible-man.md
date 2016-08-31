@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-29T13:43:19.889Z'
+datePublished: '2016-08-29T14:12:04.588Z'
+sourcePath: _posts/2016-08-29-you-incredible-man.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T13:43:14.344Z'
+dateModified: '2016-08-29T14:12:03.971Z'
 title: You incredible man!
 publisher: {}
 description: >-
@@ -13,7 +14,6 @@ description: >-
   mine. I am so happy, my dear friend, so absorbed in the exquisite sense of
   mere tranquil existence, that I neglect my talents.
 starred: false
-sourcePath: _posts/2016-08-29-you-incredible-man.md
 _type: Blurb
 
 ---
