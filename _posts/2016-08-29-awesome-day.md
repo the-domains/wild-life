@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-29T13:38:07.448Z'
+datePublished: '2016-08-29T14:06:21.081Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T13:38:06.234Z'
+dateModified: '2016-08-29T14:06:20.386Z'
 title: Awesome Day
 publisher: {}
 description: ''
