@@ -1,4 +1,3 @@
-layout_spectrum: 0.8507454991340637
 typography_spectrum: 0.8675536713562906
 color:
   brandStrength: 0.9523370426613837
@@ -11,5 +10,10 @@ color:
     - '#2A2F32'
     - '#D7C9C8'
     - '#5B6B6B'
+layout_spectrum: 0.8507454991340637
 name: wild life
+navigation:
+  - name: Awesome Day
+    id: 65492ce3-2c77-4ae6-ad65-62cc0cea1704
+    type: content
 title: wild life
