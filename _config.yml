@@ -16,4 +16,7 @@ navigation:
   - name: Name is 3
     id: ebe85b97-d583-460e-8cfd-c7b0e8c21184
     type: content
+  - name: Awesome Day
+    id: 65492ce3-2c77-4ae6-ad65-62cc0cea1704
+    type: content
 title: ''
